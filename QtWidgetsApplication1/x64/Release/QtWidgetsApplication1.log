@@ -1,0 +1,819 @@
+﻿  Reading Qt configuration (C:/Qt/6.6.2/msvc2019_64/bin/qmake)
+  uic QtWidgetsApplication1.ui
+  rcc QtWidgetsApplication1.qrc
+  moc QtWidgetsApplication1.h
+   RCC: Warning: No resources in 'C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.qrc'.
+  QtWidgetsApplication1.cpp
+  main.cpp
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x15d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0xa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x15e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0xb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x15f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0xc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x160 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x161 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0xd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x162 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x2d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x164 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x2e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x165 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x32 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x166 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x169 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x33 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x16c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x35 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x36 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x16d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x38 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x16f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x39 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x170 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x3b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x171 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x3c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x173 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x175 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x3d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x19b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x3e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x19c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x3f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x19e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x41 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1a2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x42 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1a3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x44 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x45 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1de 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x46 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x4f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x50 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x53 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1e5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x55 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x205 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x57 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x206 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x58 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x207 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x5a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x208 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x5c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x209 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x61 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x20a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x63 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(1,1): warning C4828: 文件包含在偏移 0x20b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x65 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x66 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x70 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x74 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x75 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x79 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x2b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x7d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x2c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x7e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x30 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x82 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x31 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x8b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x33 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x8d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x34 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x8f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x36 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x90 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x37 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x91 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x39 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x93 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0xaa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0xac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0xaf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0xb1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0xb2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x40 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0xb3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x49 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0xbf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x4a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0xc1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x4d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0xcf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x4f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0xd1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x51 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0xd4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x52 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0xd5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x54 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0xd6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x56 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x1bc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x1bd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x5b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x1be 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x5d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x1bf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x5f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x1c0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x60 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x6a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x1c1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x6e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x1c3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x6f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x1c4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x73 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x1c5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x77 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x1c8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x78 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x1cb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x7c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x1cc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x85 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x1ce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x87 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x1cf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x89 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x1d0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x8a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x1d2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x8b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x1d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x8d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x1fa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x1fb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xa4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xa6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x1fd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xa9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x201 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x202 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x23b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x23d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xad 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x240 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xb9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x242 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xbb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x243 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xc9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x244 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xcb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x264 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x265 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xcf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x266 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xd0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x267 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1aa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x268 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1c9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x269 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1ca 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x26a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1ce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x71d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1cf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x71e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1d1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x71f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1d2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x720 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x721 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1d7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x722 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x724 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x725 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1da 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1db 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x726 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1dd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x729 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1de 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x72a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x72c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x730 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x731 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1e9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x733 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1ea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x735 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x76e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1ef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x770 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1f1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x773 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x775 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1f4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x776 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1f6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x777 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1fb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1fd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x797 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x798 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x200 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x799 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x20c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x79a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x210 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x79b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x211 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x79c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x215 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4828: 文件包含在偏移 0x79d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x219 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x21a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x21e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x227 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x229 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x22b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x22c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x2b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x22d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x2c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x22f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x30 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x246 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x31 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x248 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x33 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x24b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x34 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x36 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x24d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x37 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x24e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x39 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x24f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x25b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x25d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x26b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x26d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x270 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x271 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x40 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x272 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x49 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x4a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x4d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x4f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x51 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x52 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x54 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x56 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x5b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3aa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x5d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3ab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x5f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x60 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x6a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x6e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x6f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x73 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x77 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x78 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x7c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x85 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x87 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x89 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x8a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x8b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x8d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xa4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xa6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xa9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xad 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xb9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xbb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xc9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xcb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xcf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xd0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1aa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1c9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1ca 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1ce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1cf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1d1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1d2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1d7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1da 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1db 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1dd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1de 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1e9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1ea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1ef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1f1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1f4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1f6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1fb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1fd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x200 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x20c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x210 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x211 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x215 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x219 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x21a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x21e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x227 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x229 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x22b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x22c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x22d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x22f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x246 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x248 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x24b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x24d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x24e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x24f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x25b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x25d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x26b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x26d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x270 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x271 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x272 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3aa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3ab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x18 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x1a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x1b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x1c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x1d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x34 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x35 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x39 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x3a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x3c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x3d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x43 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x47 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x48 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x4a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x4d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x4e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x56 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x57 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x5a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x5c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x5e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x5f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x61 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x63 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x68 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x6a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x6c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x6d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x77 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x7b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x7c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x80 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x84 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x85 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x89 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x92 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x94 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x96 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x97 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x98 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x9a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0xb1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0xb3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0xb6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0xb8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0xb9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0xba 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0xc3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0xc5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0xd3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0xd5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0xd8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0xd9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0xda 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x74b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x74c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x76d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x771 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x773 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x775 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x779 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x780 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x784 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x78c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x78e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x795 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x797 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x79a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x79c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x79d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x79e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x7a5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x7a7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x7b7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x7b8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x7b9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x7ba 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x7cd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x7ce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x828 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x82c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x82d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x82f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x832 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x836 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x837 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x838 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x847 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x848 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x849 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x84a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x84e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x859 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x85a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x8a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x8a8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x8a9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x8ab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x8ae 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x8b2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x8b3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x8b4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x8c7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x8c8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x8c9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x8ca 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x8ce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x8d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x8da 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x93c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x940 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x941 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x943 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x946 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x94a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x94b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x94c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x95f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x960 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x961 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x962 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x966 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x971 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x972 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x9d2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x9d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x9d7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x9d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x9dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x9e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x9e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x9e2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x9f4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x9f5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x9f6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x9f7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\Complier\include\Sys.Log.Manager\Sys.Log.Manager.h(1,1): warning C4828: 文件包含在偏移 0x9fb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 QtWidgetsApplication1.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0xa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0xb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0xc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0xd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x24 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x25 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x29 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x2a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x2c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x2d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x33 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x37 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x38 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x3a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x3d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x3e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x46 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x47 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x4a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x4c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x4e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x4f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x51 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x53 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x58 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x5a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x5c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x5d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x67 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x6b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x6c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x70 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x74 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x75 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x79 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x82 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x84 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x86 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x87 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x88 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x8a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0xa1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0xa3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0xa6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0xa8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0xa9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0xaa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0xb3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0xb5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0xc3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0xc5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0xc8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0xc9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0xca 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x324 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x325 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x346 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x34a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x34c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x34e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x352 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x359 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x35d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x365 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x367 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x36e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x370 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x373 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x375 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x376 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x377 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x37e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x380 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x390 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x391 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x392 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x393 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x7a8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x7a9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x803 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x807 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x808 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x80a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x80d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x811 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x812 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x813 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x822 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x823 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x824 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x825 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x829 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x834 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x835 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x87f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x883 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x884 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x886 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x889 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x88d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x88e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x88f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x8a2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x8a3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x8a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x8a5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x8a9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x8b4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x8b5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x917 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x91b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x91c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x91e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x921 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x925 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x926 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x927 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x93a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x93b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x93c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x93d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x941 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x94c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x94d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x9ad 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x9b1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x9b2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x9b4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x9b7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x9bb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x9bc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x9bd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x9cf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x9d0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x9d1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x9d2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\SysLogManager.h(1,1): warning C4828: 文件包含在偏移 0x9d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\main.cpp(35,20): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+  qrc_QtWidgetsApplication1.cpp
+  moc_QtWidgetsApplication1.cpp
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x2b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x2c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x30 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x31 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x33 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x34 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x36 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x37 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x39 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x40 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x49 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x4a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x4d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x4f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x51 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x52 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x54 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x56 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x5b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x5d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x5f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x60 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x6a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x6e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x6f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x73 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x77 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x78 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x7c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x85 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x87 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x89 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x8a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x8b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x8d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xa4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xa6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xa9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xad 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xb9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xbb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xc9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xcb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xcf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0xd0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1aa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1c9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1ca 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1ce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1cf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1d1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1d2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1d7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1da 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1db 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1dd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1de 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1e9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1ea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1ef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1f1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1f4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1f6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1fb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1fd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x1ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x200 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x20c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x210 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x211 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x215 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x219 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x21a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x21e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x227 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x229 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x22b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x22c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x22d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x22f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x246 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x248 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x24b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x24d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x24e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x24f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x25b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x25d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x26b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x26d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x270 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x271 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x272 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3a9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3aa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\ZhangTao\source\repos\OCRSLN\QtWidgetsApplication1\QtWidgetsApplication1.h(1,1): warning C4828: 文件包含在偏移 0x3ab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  QtWidgetsApplication1.vcxproj -> C:\Users\ZhangTao\source\repos\OCRSLN\Complier\Release\bin\QtWidgetsApplication1.exe
